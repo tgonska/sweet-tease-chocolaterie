@@ -1,4 +1,4 @@
-import { Instagram, Mail, Phone, MapPin, Heart, Gift, Sparkles, CalendarHeart } from 'lucide-react'
+import { Mail, Phone, MapPin, Heart, Gift, Sparkles, CalendarHeart } from "lucide-react";
 
 const phoneNumber = '(201) 259-6905'
 const instagramUrl = 'https://www.instagram.com/sweetteasechocolaterie/'
